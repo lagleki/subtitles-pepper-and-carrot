@@ -1,272 +1,280 @@
 [*] Reference: http://www.peppercarrot.com/en/article271/episode-6-the-potion-contest
+[*] STATUS: At the moment we are at the stage of polishing English translation (which is based on Russian dialogues). After polishing phase will be completed the English language will become the base one for other languages. That said, only corrections to English language are accepted at this time. Important: When proposing new replicas, please consider to try fit them to the same length as original Russian replicas. This will save a lot of work to animators and keep the kitties safe.
+[*]
 [*] Translators and correctors:
 [*]   English: Alex Gryson, Stas Kholodilin, scribblemaniac
 [*]   Russian: Denis "uncle Night" Prisukhin, Nikolai Mamashev, Stas Kholodilin
 [*]   Lojban: Gleki Arxokuna
-[*] Please make sure to read instructions before you start contributing  - https://github.com/morevnaproject/subtitles-pepper-and-carrot#license
 
 1
-00:00:03,430 --> 00:00:05,930
+00:00:01,030 --> 00:00:03,530
 [ru] Проект "Моревна"...
 [en] Morevna Project...
-[jb] .i la mo revna ku noi projeto
+[jb] la'o gy.Morevna Project.gy.
 
 2
-00:00:06,770 --> 00:00:09,180
+00:00:04,370 --> 00:00:06,780
 [ru] При поддержке "Ethic Cinema"...
 [en] ...in association with "Ethic Cinema"...
 [jb] .e la'o gy.Ethic Cinema.gy. noi sidju
 
 3
-00:00:10,140 --> 00:00:12,310
+00:00:07,240 --> 00:00:08,510
 [ru] Представляет.
-[en] cu tigni
+[en] ...presents.
+[jb] cu tigni
 
 4
-00:00:24,180 --> 00:00:25,720
+00:00:21,780 --> 00:00:23,320
 [ru] [зевает]
 [en] [yawns]
 [jb] to'i moltenva'u toi
 
 5
-00:00:26,640 --> 00:00:30,640
+00:00:24,240 --> 00:00:28,240
 [ru] Кажется, я снова уснула с открытым окном...
-[en] I must've fallen asleep with the window open again...
-[jb] .i sei simlu mi za'u re'u co'a sipna ne'a lo kalri canko
+[en] Oh, I fell asleep with the window open again...
+[jb] .i sei simlu mi za'ure'u sipna ne'a lo kalri canko
 
 6
-00:00:32,360 --> 00:00:35,360
+00:00:29,960 --> 00:00:32,760
 [ru] Уфф... Как дует то...
-[en] Oh... it's so windy...
-[jb] .i .oi tai brife
+[en] Ufff... it's so windy...
+[jb] .i .oi mutce brife
 
 7
-00:00:36,020 --> 00:00:39,310
+00:00:33,620 --> 00:00:36,910
 [ru] И почему мне видно из окна... Комону?
 [en] ...and why can I see Komona through the window?
 [jv] .i ni'i ma la .komonan. cu trixe le canko
 
 8
-00:00:40,140 --> 00:00:41,140
+00:00:37,240 --> 00:00:38,240
 [ru] Комону?!
 [en] Komona?!
 [jb] la .komonan.
 
 9
-00:00:42,100 --> 00:00:42,890
+00:00:39,200 --> 00:00:39,990
 [ru] КОНКУРС!!!
 [en] THE CONTEST!!!
 [jb] .i nu jivna
 
 10
-00:00:44,100 --> 00:00:45,680
+00:00:41,700 --> 00:00:43,280
 [ru] В предыдущих сериях:
-[en] In previous episodes...
+[en] In previous episodes:
 [jb] .i purci pagbu
 
 11
-00:00:45,850 --> 00:00:47,890
+00:00:43,450 --> 00:00:45,490
 [ru] Пэппер потратила много сил...
 [en] Pepper spent a lot of effort...
 [jb] .i la .piper. pu carmi jai gau bredi
 
 12
-00:00:48,270 --> 00:00:51,890
+00:00:45,870 --> 00:00:49,490
 [ru] ...чтобы подготовиться к конкурсу зельеваров.
 [en] ...preparing for the potion contest.
-[jb] tu'a lo nu jivna fa lo finti be lo mixre
+[jb] tu'a le nu jivna fa lo finti be lo mixre
 
-14
-00:00:52,640 --> 00:00:53,470
+13
+00:00:50,040 --> 00:00:50,870
 [ru] Должно быть...
 [en] I must've...
-[jb] .i ba'a
+[jb] .i sei sruma
 
-15
-00:00:53,810 --> 00:00:56,600
+14
+00:00:51,210 --> 00:00:54,000
 [ru] Должно быть я случайно уснула...
 [en] ...must've accidentally fallen asleep...
-[jb] ba'a mi pu se snuti sipna be co'a
+[jb] mi pu se snuti sipna be co'a
 
-16
-00:00:57,470 --> 00:00:58,100
+15
+00:00:54,470 --> 00:00:55,100
 [ru] Но...
 [en] But...
 [jb] .i ku'i
 
-17
-00:00:59,180 --> 00:01:00,390
+16
+00:00:56,180 --> 00:00:57,320
 [ru] Но... Где я?
 [en] But...where am I?
 [jb] ku'i y mi ma zvati
 
-18
-00:01:01,430 --> 00:01:02,310
+17
+00:00:58,220 --> 00:00:59,160
 [ru] Ой!!!
 [en] Oh!!!
 [jb] ii
 
-19
-00:01:07,930 --> 00:01:11,680
+18
+00:01:04,880 --> 00:01:08,580
 [ru] Кэррот, как это мило, что ты обо всем позаботился!
 [en] Carrot! It's so cute that you took care of everything!
 [jb] .i u'e iu doi la karot do ro da pu'i kurji
 
-20
-00:01:12,390 --> 00:01:13,480
+19
+00:01:09,640 --> 00:01:10,640
 [ru] Мяу!
 [en] Meow!
 [jb] mi'au
 
-21
-00:01:14,220 --> 00:01:18,640
+20
+00:01:11,620 --> 00:01:16,040
 [ru] Ты даже додумался взять зелье, мою одежду и шляпу!
 [en] You even thought to bring a potion, my clothes, and my hat!
-[jb] .i do punji le mixre .e ke ji'a le taxfu e le mapku
+[jb] .i do punji pa mixre .e ke ji'a le taxfu e le mapku
 
-22
-00:01:19,720 --> 00:01:23,270
+21
+00:01:17,120 --> 00:01:20,670
 [ru] Ну ка, давай глянем, какое зелье ты прихватил.
 [en] Well, let's see which potion you brought.
-[jb] .i .ai catlu lo nu do punji ma kau noi mixre
+[jb] .i .ai facki le du'u do punji ma kau noi mixre
+
+22
+00:01:21,170 --> 00:01:23,040
+[ru] Тааак, что у нас тут?
+[en] So, what do we have here?
+[jb] .i ti mo
 
 23
-00:01:23,770 --> 00:01:25,640
-[ru] Тааак, что у нас тут?
-[en] [Version 1] So, what have we here?
-[en] [Version 2] So, what do we have here?
-[jb] .i ja'o ti mo
-
-24
-00:01:26,470 --> 00:01:28,470
+00:01:23,870 --> 00:01:25,870
 [ru] Чтооооо?!
 [en] Whaaaat?!
 [jb] .i mo
 
-25
-00:01:30,020 --> 00:01:34,020
+24
+00:01:28,740 --> 00:01:32,840
 [ru] Кэээээээрррррооооооот!!!!!!!
 [en] Caaaaaaarrrrrooooooot!!!!!!!
-[jb] doi la karot
+[jb] .i karot
 
-26
-00:01:35,000 --> 00:01:40,000
+25
+00:01:33,640 --> 00:01:37,400
 [ru] Пэппер и Кэррот. Эпизод 6: Конкурс зельеваров.
 [en] Pepper & Carrot. Episode 6: The Potion Contest
+[jb] la .piper. jo'u la .karot. .i 6moi fa la nu jivna
 
-27
-00:01:40,930 --> 00:01:45,720
+26
+00:01:38,330 --> 00:01:43,120
 [ru] На правах мэра Комоны, я объявляю соревнование зельеваров...
 [en] As Mayor of Komona, I declare the potion contest...
-[jb] .i mi'e lo turni be la .komonan. lo nu lo finti be lo mixre zu'ai jivna
-28
-00:01:46,020 --> 00:01:47,680
+[jb] .i gau mi poi turni la .komonan. vau le nu jivna fa le finti be lo mixre
+
+27
+00:01:43,420 --> 00:01:45,080
 [ru] ...открытым!
 [en] ...open!
 [jb] cu ca'e fasnu
 
-29
-00:01:49,470 --> 00:01:53,470
+28
+00:01:46,870 --> 00:01:50,870
 [ru] В этом конкурсе примут участие четыре юные ведьмы!
 [en] Four young witches are participating in this contest!
-[jb] .i jivna zu'ai fa le vo te makfa 
+[jb] .i simxu le ka jivna fa le vo citno te makfa 
 
-30
-00:01:54,520 --> 00:01:57,140
+29
+00:01:51,920 --> 00:01:54,540
 [ru] Давайте же им громко поаплодируем!
 [en] Please give a huge round of applause!
-[jb] .i .e'e cladu sarji le jivna
+[jb] .i .e'e cladu sarji le vo mei
 
-31
-00:02:03,220 --> 00:02:07,220
+30
+00:02:00,620 --> 00:02:04,620
 [ru] Это честь видеть здесь восхитительную искусницу...
 [en] It is an honor to welcome the ravishing and ingenious witch...
-[jb] .i klama fi la texno gunma fa lo noi se sinma
+[jb] .i klama fi la texno gunma fa le noi se sinma
 
-32
-00:02:07,810 --> 00:02:10,270
+31
+00:02:05,210 --> 00:02:07,670
 [ru] ...прибывшую прямиком из Техносоюза!
 [en] ...from the great Technologist's Union!!!..
 [jb] gi'e melbi gi'e stati vau se cmene be zo
 
-33
-00:02:10,640 --> 00:02:13,140
+32
+00:02:08,040 --> 00:02:11,780
 [ru] Кориандр!
 [en] Coriander!
 [jb] .koriiander.
 
-34
-00:02:15,640 --> 00:02:20,310
+33
+00:02:13,040 --> 00:02:17,710
 [ru] И не забывайте о нашей, дорогой ведьме из Комоны...
 [en] And don't forget about our local girl, Komona's very own witch...
 [jb] .i .ei morji fi pa nixli poi diklo mi'a .i fi'i la 
 
-35
-00:02:20,680 --> 00:02:23,560
+34
+00:02:18,080 --> 00:02:20,960
 [ru] Шафран!
 [en] Saffron!
 [jb] .safran.
 
-36
-00:02:29,600 --> 00:02:31,680
+35
+00:02:26,660 --> 00:02:28,920
 [ru] Наша третья участница...
 [en] Our third participant...
-[jb] .i lo ci moi jivna
+[jb] .i le ci moi jivna
+
+36
+00:02:29,140 --> 00:02:32,580
+[ru] ...гостья, из страны заходящих лун...
+[en] ...comes to us from the lands of the setting moons...
+[jb] cu klama fi lei tumla be se ke dizlo mluni
 
 37
-00:02:32,220 --> 00:02:35,220
-[ru] ...гостья, из страны заходящих лун...
-[en] [Version 1]...comes to us from the lands of the setting moons...
-[en] [Version 2]...from the lands of the setting moons...
-[jb] cu klama fi lo tumla pe lo za'u dizlo lunra
+00:02:33,040 --> 00:02:34,920
+[ru] ...загадочная...
+[en] ...the mysterious...
+[jb] .i coi noi cizra
 
 38
-00:02:35,640 --> 00:02:39,640
-[ru] ...загадочная Ситими!
-[en] ...the mysterious Shichimi!
-[jb] .i coi la .citcimin.
+00:02:35,900 --> 00:02:38,340
+[ru] ...Ситими!
+[en] ...Shichimi!
+[en] .citcimin.
 
 39
-00:02:42,720 --> 00:02:48,020
+00:02:40,120 --> 00:02:44,520
 [ru] И, наконец, наша последняя участница из Леса беличьего уголка...
 [en] And finally our last participant, from the forest of Squirrel's End...
 [jb] .i uo ro moi jivna ra'i la rebla be lo ricyratcu fa la
 
 40
-00:02:48,350 --> 00:02:49,060
+00:02:44,820 --> 00:02:46,300
 [ru] ...Пэппер.
 [en] ...Pepper.
 [jb] .piper.
 
 41
-00:02:51,600 --> 00:02:53,220
+00:02:49,340 --> 00:02:50,780
 [ru] Дамы и господа!
 [en] Ladies and gentlemen!
-[jb] .i doi lo nobli
+[jb] .i doi lei nobli
 
 42
-00:02:53,470 --> 00:02:59,060
+00:02:50,870 --> 00:02:56,460
 [ru] Обладателя главного приза определят Ваши аплодисменты!
-[en] The winner will be determined by "applaud-o-meter"!
-[jb] .i ca'e ba jdice fi lo jinga ta'i lo ka cladu zanru
+[en] The winner of the grand prize of 50,000 Ko will be determined by applaud-o-meter!
+[jb] .i ca'e ba jdice fi le jinga ta'i le nu mi'o cladu zanru
 
 43
-00:02:59,180 --> 00:03:03,020
+00:02:56,580 --> 00:03:00,420
 [ru] И да начнутся игры!
 [en] Let the games begin!
 [jb] .i .e'e co'a jivna
 
 44
-00:03:05,180 --> 00:03:09,970
+00:03:02,580 --> 00:03:07,370
 [ru] [орёт] Итак, Мисс Кориандр, приглашаем Вас выступить первой.
 [en] [shouting] Well! First up Coriander's demonstration.
-[jb] i pa mai tigni fa la .koriiander.
+[jb] i 1mai tigni fa la .koriiander.
 
 45
-00:03:12,430 --> 00:03:14,100
+00:03:09,830 --> 00:03:11,500
 [ru] Дамы и господа...
 [en] Ladies & gentlemen...
-[jb] .i doi lo nobli
+[jb] .i doi lei nobli
 
 46
 00:03:14,560 --> 00:03:17,640
